@@ -562,4 +562,4 @@ async def on_message(message):
 
 
 #CLIENT KEY
-client.run("Mzg0NzcxMjczOTQ4OTIxODU4.DqFSwA.ffqz4145R-0Ac31-mJMhS77U2cE")
+client.run("TOKEN")
